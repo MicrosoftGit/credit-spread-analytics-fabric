@@ -9,6 +9,8 @@ The goal is to demonstrate how Fabric enables **end‑to‑end analytics** — f
 
 ## 🚀 Demo Overview
 
+Today, credit spreads are widening, signaling increased risk in our corporate loan portfolio. We need to identify, at a glance, which sectors are deteriorating and proactively mitigate exposure. The goal of this demo is to move from "raw data" to "unified intelligence," showcasing how Fabric IQ turns data into actionable business meaning. 
+
 The demo showcases:
 
 *   Credit spread curves by **rating, sector, and tenor**
@@ -16,6 +18,8 @@ The demo showcases:
 *   Decomposition of spread drivers (rates vs credit)
 *   Natural‑language explanations using **Fabric IQ / Copilot**
 *   A reusable Lakehouse foundation for other IQ offerings
+
+Fabric gives us 360-degree visibility, reduced compliance risk, and faster decision-making. And, Fabric IQ allows us to model our business using natural language, not complex SQL schemas.
 
 This is a **demo and reference implementation**, not a production system.
 
